@@ -1,2 +1,2 @@
 # lp2flix
-Projeto da matéria de lp2. Recriando o netflix
+University project trying to replicate Netflix in a simple way using PHP/HTML
